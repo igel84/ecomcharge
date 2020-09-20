@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: ecomcharge-development
+test:
+  adapter: postgresql
+  database: ecomcharge-test
+production:
+  adapter: postgresql
+  database: ecomcharge-production
